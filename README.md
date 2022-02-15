@@ -208,8 +208,8 @@ export class CylinderComponent{
 ```
 ## OUTPUT:
 ### Home Page(with default input):
-![output](./out.png)
+![output](./outfirst.png)
 ### Home Page(with user input):
-![output](./out1.png)
+![output](./outsecond.png)
 ## Result:
 A dynamic website to perform mathematical calculations is designed using Angular Framwork
